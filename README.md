@@ -1,6 +1,6 @@
 # Mediapipe solutions demo with Streamlit
 
-Required packages/
+Required packages:
 - configparser
 - streamlit 
 - opencv-python
